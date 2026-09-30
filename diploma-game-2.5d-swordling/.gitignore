@@ -1,0 +1,63 @@
+# Unreal Engine generated directories
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+Plugins/**/DerivedDataCache/
+Plugins/**/Saved/
+Build/**/FileOpenOrder/
+
+# IDE-generated and user-local files
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.code-workspace
+*.user
+*.userprefs
+*.sln.DotSettings.user
+
+# Logs, crash dumps, debug output and temporary files
+*.log
+*.dmp
+*.pdb
+*.idb
+*.ilk
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.swp
+*.swo
+*~
+Backup/
+tmp/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environment and credential files
+.env
+.env.*
+!.env.example
+!.env.sample
+*.local.env
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
